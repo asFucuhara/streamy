@@ -1,6 +1,7 @@
 This is he back-end server for Streamy.
 
 It´s a api-REST web server:
+
     CREATE_STREAM,
     FETCH_STREAM,
     FETCH_STREAMS,
